@@ -6,3 +6,4 @@ def function(x):
 
 
 print(function(10))
+allez les bleu
